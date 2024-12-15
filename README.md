@@ -47,9 +47,9 @@ This repository contains various data analysis and data science projects that ex
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies using:
-   ```bash
- https://github.com/ArigalaAdarsh/Python-Data-analysis-Projects.git
-    ```
+```bash
+    https://github.com/ArigalaAdarsh/Python-Data-analysis-Projects.git
+```
 3. Open the Jupyter Notebooks or Python scripts to explore each project.
 4. Each project folder contains its own dataset and documentation (if applicable).
 ### Contributing
