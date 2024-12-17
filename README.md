@@ -1,4 +1,4 @@
-# Data Analysis and Data Science Projects
+# Data Analysis Projects
 
 This repository contains various data analysis and data science projects that explore different domains, including statistics, machine learning, and real-world data analytics. The projects include data exploration, visualization, and analysis using tools such as Python, Pandas, NumPy, and machine learning models.
 
@@ -22,17 +22,6 @@ This repository contains various data analysis and data science projects that ex
 ### 6. **Waiter Tip Analysis**
    This project investigates the factors affecting tips in restaurants, analyzing how attributes such as day of the week, meal type, and size of the party impact tipping behavior.
 
-### 7. **HR Analytics**
-   The project explores human resources data to understand employee performance, retention rates, and other HR-related metrics.
-
-### 8. **Pandas Workout**
-   A collection of Python code snippets and tutorials that demonstrate the functionality of the Pandas library in performing various data manipulation and analysis tasks.
-
-### 9. **Purchase Case Study - Statistics Data Analysis**
-   This case study uses statistical analysis to explore purchasing behaviors, trends, and patterns based on customer data.
-
-### 10. **Regular Expressions with NumPy**
-   This project demonstrates the use of regular expressions combined with NumPy for text processing and data manipulation tasks.
 
 ## Technologies Used
 
